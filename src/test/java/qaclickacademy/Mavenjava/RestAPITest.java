@@ -15,6 +15,9 @@ public class RestAPITest {
 		System.out.println("updated by person 3");
 		System.out.println("updated by person 3");
 		System.out.println("updated by person 4");
+
+		System.out.println("copied");
+
 	}
 @Test
 public void twitterdelete()
