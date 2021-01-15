@@ -1,5 +1,13 @@
 package qaclickacademy.Mavenjava;
 
+import org.junit.Test;
+
 public class demo {
-	System.out.println("develop chnage")
+	@Test
+	public void start()
+	{
+		System.out.println("telementsui");
+	}
+	
+	
 }
