@@ -14,14 +14,14 @@ public class RestAPITest {
 		System.out.println("updated by person 3");
 		System.out.println("updated by person 3");
 		System.out.println("updated by person 3");
+		System.out.println("updated by person 4");
 	}
 @Test
 public void twitterdelete()
 {
 	System.out.println("twitterdelete");
-<<<<<<< HEAD
+
 	
-=======
->>>>>>> 708710e9d2b9f90f84e4fe1ef6c29e1649a1bdec
+
 }
 }
