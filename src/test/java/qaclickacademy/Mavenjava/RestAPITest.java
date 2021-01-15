@@ -9,6 +9,8 @@ public class RestAPITest {
 	
 	{
 		System.out.println("Npostjira");
+		System.out.println("Npostjira cloned1");//updated code fir example
+		System.out.println("Npostjira cloned"2);
 	}
 @Test
 public void twitterdelete()
