@@ -12,12 +12,11 @@ public class RestAPITest {
 		System.out.println("Npostjira cloned1");//updated code fir example
 		System.out.println("Npostjira cloned");
 		System.out.println("updated by person 3");
-		System.out.println("updated by person 3");
-		System.out.println("updated by person 3");
-		System.out.println("updated by person 4");
+		System.out.println("updated by person 9");
+		System.out.println("updated by person 10");
+	
 
-		System.out.println("copied");
-		System.out.println("copied1");
+		
 
 	}
 @Test
