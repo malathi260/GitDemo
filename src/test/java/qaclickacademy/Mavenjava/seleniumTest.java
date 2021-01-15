@@ -9,7 +9,11 @@ public class seleniumTest {
 		System.out.println("BrowserAutomatione");
 		System.out.println("updated by persons 3");
 		System.out.println("updated by person 3");
+<<<<<<< HEAD
 		//hjkj
+=======
+		//kgkghjk;
+>>>>>>> 708710e9d2b9f90f84e4fe1ef6c29e1649a1bdec
 		System.out.println("updated by person 3");
 	}
 
