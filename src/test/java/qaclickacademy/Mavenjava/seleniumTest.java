@@ -25,4 +25,9 @@ public class seleniumTest {
 		System.out.println("webs automation");
 		System.out.println("webs automation commit");
 	}
+	@Test
+	public void commit()
+	{
+		System.out.println("develop chnage");
+	}
 }
