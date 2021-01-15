@@ -30,4 +30,9 @@ public class seleniumTest {
 	{
 		System.out.println("develop chnage");
 	}
+	@Test
+	public void commit2()
+	{
+		System.out.println("develop chnage2");
+	}
 }
