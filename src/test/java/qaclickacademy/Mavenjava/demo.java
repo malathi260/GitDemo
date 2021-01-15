@@ -7,6 +7,7 @@ public class demo {
 	public void start()
 	{
 		System.out.println("telementsui");
+		System.out.println("telementsui");
 	}
 	
 	
